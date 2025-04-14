@@ -19,7 +19,7 @@ Whether you're a beginner or an experienced developer, these micro-scripts will 
 
 ```bash
 /
-├── sparkle-trail/
+├── solar-system/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
